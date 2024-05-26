@@ -11,4 +11,4 @@ You need to install «pandas» and «SQLalchemy» libraries for the program to w
 
 In the «SQL_connection» file in line 4 you need to point your PSQL username and a password that you used when you created a PSQL table
 
-In the same file in line 11 you need to point YOOUR folder path WHERE your dataset is stored dataset
+In the same file in line 11 you need to point YOUR folder path WHERE your dataset is stored dataset
