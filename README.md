@@ -1,4 +1,4 @@
-## MANIPULATING DATABASE
+## MANIPULATING DATA
 
 Using PostgreSQL database for manipulating data 
 
